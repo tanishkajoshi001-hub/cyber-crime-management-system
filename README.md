@@ -116,3 +116,10 @@ cyber-crime-management-system/
 📌 Project Purpose
 This project was created as a practical way to apply core Java concepts—like Object-Oriented Programming, file handling, and collections—to a real-world scenario: managing cyber crime cases.
 It’s designed to be a learning project that demonstrates how basic software engineering principles can support structured, efficient case management.
+
+<img width="218" height="299" alt="Screenshot 2026-09-12 114229" src="https://github.com/user-attachments/assets/2ad1fab9-4d5d-4034-8e6e-0d69ea9a094d" />
+
+<img width="143" height="285" alt="Screenshot 2026-09-13 214417" src="https://github.com/user-attachments/assets/1919d5e4-0346-41fc-8faa-5d2ed1126d9f" />
+
+<img width="559" height="298" alt="Screenshot 2026-09-12 114121" src="https://github.com/user-attachments/assets/6d053f38-9f6e-42eb-9cc9-e94b63dfcf00" />
+
