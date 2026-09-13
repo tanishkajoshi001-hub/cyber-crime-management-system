@@ -57,9 +57,11 @@ javac -d out src/*.java
 ➡️ bash
 java -cp out Main
 
+
 ## 📂 Project Structure
 
 ```text
+
 cyber-crime-management-system/
 │
 ├── src/
@@ -69,6 +71,8 @@ cyber-crime-management-system/
 │   ├── Evidence.java
 │   ├── Investigator.java
 │   ├── Person.java
+│   ├── Suspect.java
+│   ├── Victim.java
 │   └── FileManager.java
 │
 ├── data/
@@ -90,13 +94,15 @@ cyber-crime-management-system/
 * `Evidence.java` → Stores and manages evidence details
 * `Investigator.java` → Stores investigator information
 * `Person.java` → Parent class for common personal information
+* `Suspect.java` → Stores suspect-related information
+* `Victim.java` → Stores victim-related information
 * `FileManager.java` → Handles saving and loading data from files
 * `cases.txt` → Stores registered case records
 * `evidence.txt` → Stores evidence records
 * `investigators.txt` → Stores investigator records
 
 ```
-```
+
 
 
 🔐 Default Login
