@@ -1,0 +1,7 @@
+1|101|Screenshot|Screenshot of the fake shopping website
+2|101|Transaction Record|Bank transaction details provided by the victim
+3|102|Email|Suspicious email received by the victim
+4|103|Chat Record|Chat messages related to unauthorized account access
+5|104|Document|Copy of the fake account registration details
+106|106|Transfer logs, email records, system logs, and device activity records.|Logs and records showing the unauthorized transfer of confidential data.
+107|107|Login history, IP address records, password-change logs, and screenshots.|Records showing suspicious or unauthorized access to the account.
