@@ -4,6 +4,7 @@ A simple, console-based Java application that helps organize and manage cyber cr
 It brings together case tracking, evidence management, investigator assignment, and status updates into one easy-to-use system.
 
 ✨ Key Features
+
 📁 Register and manage cyber crime cases
 
 🔎 Search and view detailed case information
@@ -37,7 +38,7 @@ It brings together case tracking, evidence management, investigator assignment, 
 ✨Clone the repository
 
 ➡️ bash
-git clone [https://github.com/your-username/cyber-crime-management-system.git](https://github.com/your-username/cyber-crime-management-system.git)
+git clone [https://github.com/tanishkajoshi001-hub/cyber-crime-management-system.git)
 
 ✨Open the project folder
 
