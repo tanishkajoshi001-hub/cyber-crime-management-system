@@ -36,6 +36,7 @@ It brings together case tracking, evidence management, investigator assignment, 
 5. Console-based User Interface
 
 🚀 Setup & Run
+
 ✨Clone the repository
 
 ➡️ bash
@@ -55,6 +56,48 @@ javac -d out src/*.java
 
 ➡️ bash
 java -cp out Main
+
+## 📂 Project Structure
+
+```text
+cyber-crime-management-system/
+│
+├── src/
+│   ├── Main.java
+│   ├── Case.java
+│   ├── CaseManager.java
+│   ├── Evidence.java
+│   ├── Investigator.java
+│   ├── Person.java
+│   └── FileManager.java
+│
+├── data/
+│   ├── cases.txt
+│   ├── evidence.txt
+│   └── investigators.txt
+│
+├── out/
+│
+├── README.md
+└── STATEMENT.md
+```
+
+### 📝 File Overview
+
+* `Main.java` → Main program, login, dashboard, and user interaction
+* `Case.java` → Stores case details, priority, risk score, status, and investigator
+* `CaseManager.java` → Handles case operations and case statistics
+* `Evidence.java` → Stores and manages evidence details
+* `Investigator.java` → Stores investigator information
+* `Person.java` → Parent class for common personal information
+* `FileManager.java` → Handles saving and loading data from files
+* `cases.txt` → Stores registered case records
+* `evidence.txt` → Stores evidence records
+* `investigators.txt` → Stores investigator records
+
+```
+```
+
 
 🔐 Default Login
 
