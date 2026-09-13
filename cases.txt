@@ -1,7 +1,0 @@
-101|Online Fraud|Rahul Sharma|Money was transferred through a fake shopping website|Under Investigation
-102|Phishing|Priya Verma|Received a suspicious email asking for banking details|Evidence Collected
-103|Account Hacking|Aman Singh|Social media account was accessed without permission|Suspect Identified
-104|Identity Theft|Neha Patel|Personal information was used to create a fake account|Under Investigation
-105|Cyberbullying|RIYA|The victim received repeated threatening and abusive messages on social media from an unknown account, causing distress and harassment|Suspect Identified
-106|Data Theft|Ramesh|Unauthorized transfer of sensitive or confidential data from one system or device to another.|Under Investigation
-107|Account Hacking|Priya thakur|Unauthorized access to a person's account without their permission.|Suspect Identified
