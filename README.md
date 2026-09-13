@@ -25,7 +25,7 @@ It brings together case tracking, evidence management, investigator assignment, 
 
 🛠️ Built With
 
-1.Java
+ 1.Java
 
 2. Object-Oriented Programming (OOP)
 
