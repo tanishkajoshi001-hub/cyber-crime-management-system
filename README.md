@@ -101,11 +101,6 @@ cyber-crime-management-system/
 * `evidence.txt` → Stores evidence records
 * `investigators.txt` → Stores investigator records
 
-<img width="143" height="285" alt="Screenshot 2026-09-13 214417" src="https://github.com/user-attachments/assets/2cb8ba14-fc0a-484a-a1a0-57e5abf51786" />
-
-
-
-
 
 🔐 Default Login
 
@@ -118,8 +113,11 @@ cyber-crime-management-system/
 📌 Project Purpose
 This project was created as a practical way to apply core Java concepts—like Object-Oriented Programming, file handling, and collections—to a real-world scenario: managing cyber crime cases.
 It’s designed to be a learning project that demonstrates how basic software engineering principles can support structured, efficient case management.
+
 <img width="559" height="298" alt="Screenshot 2026-09-12 114121" src="https://github.com/user-attachments/assets/f80fb57c-bb20-4d8c-b51e-edb1bdd4bb02" />
+
 <img width="191" height="281" alt="Screenshot 2026-09-12 114331" src="https://github.com/user-attachments/assets/82b0e9db-e1bd-4efa-abbb-727ba00c4c16" />
+
 <img width="143" height="285" alt="Screenshot 2026-09-13 214417" src="https://github.com/user-attachments/assets/45bcb045-21c9-4ec5-ade0-afb708007eaa" />
 
 
